@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ryanalanburns
-- 👀 I’m interested in cybersecurity and python
-- 🌱 I’m currently learning more python!!
-- 📫 How to reach me linkedin.com/in/ryan-alan-burns
+- 👀 I’m interested in cybersecurity
 - 😄 Pronouns: he/him/his
 
 <!---
